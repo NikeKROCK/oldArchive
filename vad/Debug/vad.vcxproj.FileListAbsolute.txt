@@ -1,0 +1,2 @@
+D:\codes\vad\Debug\vad.exe
+D:\codes\fira\vad\Debug\vad.exe
